@@ -1,0 +1,49 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #004182;
+}
+.wrapper{
+    height: 100%;
+    width: 100%;
+}
+.content{
+    margin-top: 37vh;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title{
+    color: white;
+    text-align: center;
+}
+#textbox{
+    text-align: center;
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+#thugitup{
+    height: 70px;
+    width: 150px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #118DF0;
+    font-weight: bolder;
+    font-size: 1.5em;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#thugged{
+    text-align: center;
+    color: white;
+}
